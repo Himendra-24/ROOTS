@@ -1,0 +1,39 @@
+{
+  "artist-002_en": {
+    "title": "Tholu Bommalata",
+    "art_form": "Tholu Bommalata (Leather Shadow Puppetry)",
+    "origin": "Nellore, Andhra Pradesh, India",
+    "language": "en",
+    "introduction": "Tholu Bommalata ('play of leather figures') is an ancient shadow puppetry tradition of Andhra Pradesh, where intricately chiseled, translucent goatskin puppets are illuminated behind a taut white fabric screen.",
+    "cultural_roots": "Originating in the Deccan plateau with documented references dating back over two millennia, the art was fostered by nomadic balladeer communities and royal dynasties including the Kakatiyas and Vijayanagara kings.",
+    "materials": [
+      "Cured translucent goatskin parchment",
+      "Natural mineral and vegetable dyes (madder red",
+      "turmeric",
+      "indigo)",
+      "Split bamboo control rods and coir fastenings",
+      "Fine steel punches and chisels"
+    ],
+    "techniques": [
+      "Chemical-free sun-cured hide thinning",
+      "Intricate geometric perforation for light filtration",
+      "Multi-jointed limb articulation with bamboo pivots",
+      "Translucent back-lit projection with oil lamp illumination"
+    ],
+    "performance": "Performed traditionally across harvest festivals from dusk till dawn, accompanied by harmonium, mridangam, ankle bells (ghungroo), and improvised epic dialogue in Telugu.",
+    "stories_and_traditions": "Enacts scenes from the Ramayana and Mahabharata, interspersed with grassroots humorous interludes reflecting rural agrarian concerns, monsoon forecasts, and ethical satire.",
+    "cultural_significance": "Serves as a communal classroom and sacred gathering point, preserving living Telugu dialects, oral musical modes, and visual iconographies through community patronage.",
+    "global_explanation": "For audiences encountering this art form for the first time: Tholu Bommalata is kinetic stained-glass theater. Long before electric projection and modern cinema, artisans engineered luminous, articulated storytelling figures whose shadows bridge mortal gatherings with timeless mythology.",
+    "artist_story": "Every puppet I shape requires days of silent chiseling. The light carries our village memory through darkness.",
+    "sources": [
+      "Sangeet Natak Akademi Archives on Andhra Folk Arts",
+      "Puppetry Traditions of South India (Cultural Heritage Repository)"
+    ],
+    "uncertainties": [
+      "Exact historical century of transition from animal hides to specialized goatskin parchment remains debated among regional folklorists."
+    ],
+    "ai_generated": true,
+    "artist_approved": true,
+    "approval_status": "approved"
+  }
+}
